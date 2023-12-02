@@ -1,0 +1,30 @@
+/* homepage.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+.options-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.option-box {
+    width: 200px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    text-align: center;
+    background-color: #f9f9f9;
+    transition: background-color 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.option-box:hover {
+    background-color: #e0e0e0;
+}
