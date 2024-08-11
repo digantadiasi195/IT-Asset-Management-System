@@ -26,6 +26,8 @@ Modern and intuitive web design enhances user experience, while a secure and sca
 Project Workflow
 User Authentication and Administration:
 
+![Alt Text](Screenshot 2024-08-12 003230.png)
+
 User Login: Administrators log in with their credentials.
 Admin Dashboard: Access to various functionalities.
 Admin Sign-Up: Option for adding new administrators.
