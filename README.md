@@ -22,11 +22,12 @@ Workshop Integration: Streamlined process for sending assets to the workshop for
 
 Design and Implementation
 Modern and intuitive web design enhances user experience, while a secure and scalable database ensures data integrity. Responsive design principles cater to diverse device landscapes.
+![Alt Text](Wellcomepage.png)
 
 Project Workflow
 User Authentication and Administration:
 
-![Alt Text](![Alt Text](Screenshot%202024-08-12%20003230.png))
+![Alt Text](Screenshot%202024-08-12%20003230.png)
 
 User Login: Administrators log in with their credentials.
 Admin Dashboard: Access to various functionalities.
@@ -35,6 +36,9 @@ Employee Management:
 
 Employee Addition: Admins add new employees with relevant details.
 Employee Database: Centralized repository for employee information.
+
+![Alt Text](Homepage.png)
+
 Asset Addition and Tracking:
 
 Add New Asset: Admins add IT assets with details like ID, name, and date.
